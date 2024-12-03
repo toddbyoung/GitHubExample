@@ -11,6 +11,6 @@ package csci1011.githubstuff;
 public class GitHubStuff {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Hello GitHub!");
     }
 }
